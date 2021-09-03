@@ -34,6 +34,7 @@ Saving a file inside the `src` folder will automatically rebuild the `output.htm
 - Fetch all html files in `src/components` without declaring it in `combine.js`
 - Add support for external style sheet
 - Add support for MJML
+- Configure `.vsconfig ` for auto VSCode extension installs
 
 
 ---
