@@ -28,3 +28,13 @@ Components can be created inside `src/components` folder and should be added in 
 
 ## Watch and Live Reload
 Saving a file inside the `src` folder will automatically rebuild the `output.html` and `index.html` files. Use VS Code Live Server extension for live reload
+
+## Future Roadmap
+- Make everything zero config, running `npm start` should do it all
+- Fetch all html files in `src/components` without declaring it in `combine.js`
+- Add support for external style sheet
+- Add support for MJML
+
+
+---
+## PRs are always welcome 😉
